@@ -1,9 +1,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Your Image" style="width: 100vw; height: 40vh;">
 
 
-<!-- <h1 align="center">Hey <img src="https://user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif" alt="Your Image" style="width: 40px; height: 40px;">
- I'm Saksham Garg
-</h1>
+
+![Sakshams's Github Stats](https://github-readme-stats.vercel.app/api?username=saksham-2000&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saksham-2000&hide=TeX&layout=compact)
+
 
 
 <h1 align="center"> <img align="center" width="100" height="100" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" style="width: 90px; height: 100px;">
