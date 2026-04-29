@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/stars/saksham-2000?label=Total%20Stars&style=flat&color=0e75b6" alt="Total Stars" />
 </p>
 
-<!-- Line Below is commented. DO NOT REMOVE -->
+<!-- Line Below is commented. DO NOT REMOVE. -->
 <!-- 
 ![Metrics](https://github.com/saksham-2000/saksham-2000/blob/main/github-metrics.svg)
 -->
